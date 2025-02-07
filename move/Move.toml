@@ -1,0 +1,9 @@
+[package]
+name = "mysten_voting"
+version = "0.0.1"
+
+[dependencies]
+Sui = { local = "../sui-deps/sui-devnet-v1.18.0/crates/sui-framework/packages/sui-framework" }
+
+[addresses]
+mysten_voting = "0x0"

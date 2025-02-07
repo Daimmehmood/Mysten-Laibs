@@ -1,0 +1,78 @@
+{
+  "proposals": [
+    {
+      "id": "1738468739837",
+      "name": "Test AI Agent",
+      "twitter": "x.com/testagent",
+      "website": "https://example.com",
+      "description": "This is a test AI agent submission",
+      "creator_wallet": "TestWallet123",
+      "createdAt": "2025-02-02T03:58:59.837Z"
+    },
+    {
+      "id": "1738469239061",
+      "name": "Test AI Agent With Image",
+      "twitter": "x.com/testagent",
+      "website": "https://example.com",
+      "description": "This is a test AI agent submission with image",
+      "creator_wallet": "TestWallet123",
+      "profilePicture": {
+        "url": "https://res.cloudinary.com/ddl6juy7p/image/upload/v1738469238/mysten_agents/f3cwxwjl6uazvft2lqfw.png",
+        "publicId": "mysten_agents/f3cwxwjl6uazvft2lqfw"
+      },
+      "createdAt": "2025-02-02T04:07:19.061Z"
+    },
+    {
+      "id": "1738469476543",
+      "name": "t",
+      "twitter": "x.com/t",
+      "website": "",
+      "description": "tt",
+      "creator_wallet": "Be2wuujgJZ1eCtjcMJCzkRrKkL6befWEDhKFzQeLzaW4",
+      "profilePicture": {
+        "url": "https://res.cloudinary.com/ddl6juy7p/image/upload/v1738469475/mysten_agents/ng4zllha5tvv5uisr9my.png",
+        "publicId": "mysten_agents/ng4zllha5tvv5uisr9my"
+      },
+      "createdAt": "2025-02-02T04:11:16.543Z"
+    },
+    {
+      "id": "1738469558499",
+      "name": "t",
+      "twitter": "x.com/t",
+      "website": "",
+      "description": "tt",
+      "creator_wallet": "Be2wuujgJZ1eCtjcMJCzkRrKkL6befWEDhKFzQeLzaW4",
+      "profilePicture": {
+        "url": "https://res.cloudinary.com/ddl6juy7p/image/upload/v1738469557/mysten_agents/jnj5qp1x7bq1vns7xadz.png",
+        "publicId": "mysten_agents/jnj5qp1x7bq1vns7xadz"
+      },
+      "createdAt": "2025-02-02T04:12:38.499Z"
+    },
+    {
+      "id": "1738469717697",
+      "name": "t",
+      "twitter": "x.com/t",
+      "website": "",
+      "description": "t",
+      "creator_wallet": "Be2wuujgJZ1eCtjcMJCzkRrKkL6befWEDhKFzQeLzaW4",
+      "profilePicture": {
+        "url": "https://res.cloudinary.com/ddl6juy7p/image/upload/v1738469717/mysten_agents/ed9abdhp0ekzqizicuqj.png",
+        "publicId": "mysten_agents/ed9abdhp0ekzqizicuqj"
+      },
+      "createdAt": "2025-02-02T04:15:17.697Z"
+    },
+    {
+      "id": "1738469952914",
+      "name": "r8",
+      "twitter": "x.com/r8",
+      "website": "",
+      "description": "r8 agent",
+      "creator_wallet": "Be2wuujgJZ1eCtjcMJCzkRrKkL6befWEDhKFzQeLzaW4",
+      "profilePicture": {
+        "url": "https://res.cloudinary.com/ddl6juy7p/image/upload/v1738469952/mysten_agents/soqtlvtequahevxwf5zs.png",
+        "publicId": "mysten_agents/soqtlvtequahevxwf5zs"
+      },
+      "createdAt": "2025-02-02T04:19:12.914Z"
+    }
+  ]
+}
