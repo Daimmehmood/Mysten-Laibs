@@ -5,7 +5,7 @@ export const handleSuiPayment = async (signAndExecuteTransactionBlock) => {
     throw new Error("Wallet not connected");
   }
 
-  const FUND_RECEIVER_ADDRESS = "0x564e18f3d2a1051b66562ecda8744601ab83ac187307625ba59981e11c1e2649";
+  const FUND_RECEIVER_ADDRESS = "0xc4000ea0fd3244857575799ef4f8164c7b42d1c5bf840cfd54030f608b07556d";
   const SUI_AMOUNT = BigInt(1_000_000_000); // 1 SUI in MIST
 
   try {
