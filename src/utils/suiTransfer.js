@@ -6,7 +6,7 @@ export const handleSuiPayment = async (signAndExecuteTransactionBlock) => {
   }
 
   const FUND_RECEIVER_ADDRESS = "0xc4000ea0fd3244857575799ef4f8164c7b42d1c5bf840cfd54030f608b07556d";
-  const SUI_AMOUNT = BigInt(1_000_000_000); // 1 SUI in MIST
+  const SUI_AMOUNT = BigInt(1_000_000_000); 
 
   try {
     const txb = new TransactionBlock();
